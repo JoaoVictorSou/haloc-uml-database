@@ -1,4 +1,5 @@
 /*Database*/
+drop database haloc;
 create database if not exists haloc;
 use haloc;
 
